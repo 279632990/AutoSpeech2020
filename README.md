@@ -2,9 +2,8 @@
 
 ## Introduction
 
-The 3st place solution for 
+The third place solution for AutoSpeech-2020: https://www.automl.ai/competitions/2
 
-[AutoSpeech 2020]: https://www.automl.ai/competitions/2
 
 ## Usage
 
